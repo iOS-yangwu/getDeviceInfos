@@ -2,7 +2,7 @@
 获取设备信息
 
 {
-    "IDFA": "DE8C229B-82DE-4356-A576-04BD03581A48",
+    "IDFA": "DE8C229B-82DE-4356-A576-04BD03581A48",\n
     "IDFV": "8748606232008",
     "IMEI": "CTRadioAccessTechnologyLTE",
     "carrieroperator": "iPhone 6s Plus",
