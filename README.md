@@ -2,7 +2,7 @@
 获取设备信息
 
 
-{
+    {   
     "IDFA": "DE8C229B-82DE-4356-A576-04BD03581A48",
     "IDFV": "8748606232008",
     "IMEI": "CTRadioAccessTechnologyLTE",
@@ -28,4 +28,4 @@
     "mConnectType": "CTRadioAccessTechnologyLTE",
     "adTrackingEnable": "1",
     "localTimeZone": "Local Time Zone (Asia/Shanghai (GMT+8) offset 28800)"
-}
+    }
